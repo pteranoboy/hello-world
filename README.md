@@ -1,2 +1,3 @@
 # hello-world
-My firs repository in GitHub
+My first repository in GitHub.
+This is a trully amazing update of my initial readme.md !!!
